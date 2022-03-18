@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=dollarsqft
+comment0.text=\r\n\ Write\ a\ description\ of\ $sqft\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ testSqft()
+comment2.params=fr
+comment2.target=void\ averageSqft(edu.duke.FileResource)
+numComments=3
